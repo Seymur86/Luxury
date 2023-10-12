@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Slabo+27px&display=swap');
+
+.main-header a {
+    font-weight: normal;
+    font-family: 'Slabo 27px', Georgia, serif;
+    font-size: 13px;
+}
+
+.navigation a {
+    font-family: 'Slabo 27px', Georgia, serif;
+    font-size: 15px;
+}
+
+.center-black h1,
+.center-black span,
+.main-pink h1,
+.main-pink h2 {
+    font-weight: normal;
+    font-family: 'Alfa Slab One', Georgia, serif;
+    font-size: 40px;
+}
+
+.center span,
+.main-pink span {
+    font-family: 'Slabo 27px', Georgia, serif;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.center-image p {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.extra-final p {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.extra-final a,
+.extra-final a span {
+    font-family: 'Alfa Slab One', Georgia, serif;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.extra-price h2 {
+    font-family: 'Alfa Slab One', Georgia, serif;
+    font-size: 40px;
+    font-weight: normal;
+}
+
+.extra-price span {
+    font-family: 'Alfa Slab One', Georgia, serif;
+    font-size: 40px;
+    font-weight: normal;
+}
+
+.extra-price h3 {
+    font-family: 'Slabo 27px', Georgia, serif;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.menu-one h2 {
+    font-family: 'Slabo 27px', Georgia, serif;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.menu-one span {
+    font-family: 'Slabo 27px', Georgia, serif;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.menu a,
+.menu a span {
+    font-family: 'Alfa Slab One', Georgia, serif;
+    font-size: 16px;
+}
+
+.empty h2 {
+    font-family: 'Alfa Slab One', Georgia, serif;
+    font-size: 40px;
+    font-weight: normal;
+}
+
+.empty span {
+    font-family: 'Alfa Slab One', Georgia, serif;
+    font-size: 40px;
+    font-weight: normal;
+}
+
+.final-box-first h2 {
+    font-family: 'Slabo 27px', Georgia, serif;
+    font-size: 22px;
+    font-weight: normal;
+}
+
+.final-box-first p {
+    font-family: 'Slabo 27px', Georgia, serif;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.final-box-first strong {
+    font-family: 'Alfa Slab One', Georgia, serif;
+    font-size: 24px;
+    font-weight: normal;
+}
+
+.final-box-first span {
+    font-family: 'Alfa Slab One', Georgia, serif;
+    font-size: 24px;
+    font-weight: normal;
+}
+
+.final-box-first a,
+.final-box-first a span {
+    font-family: 'Alfa Slab One', Georgia, serif;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.foot h2,
+.foot span {
+    font-family: 'Alfa Slab One', Georgia, serif;
+    font-size: 25px;
+    font-weight: normal;
+}
+
+.icon span {
+    font-family: 'Slabo 27px', Georgia, serif;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+footer h2,
+footer marquee {
+    font-family: 'Slabo 27px', Georgia, serif;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+footer marquee {
+    font-size: 16px;
+}
+
+.center-image a,
+.center-image a span {
+    font-family: 'Alfa Slab One', Georgia, serif;
+    font-size: 16px;
+}
